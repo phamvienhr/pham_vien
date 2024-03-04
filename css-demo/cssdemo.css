@@ -19,3 +19,6 @@ th {
 tr:hover {
     background-color: bisque;
 }
+/* tr>th:hover {
+    background-color: bisque;
+} */

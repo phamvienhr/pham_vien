@@ -1,0 +1,16 @@
+ul {
+    background-color: rgb(118, 106, 246);
+    padding: 10px;
+}
+li {
+    background-color: aquamarine;
+    padding: 5px;
+    margin-left: 30px;
+}
+ul li {
+    margin: 5px;
+}
+ol {
+    background-color: antiquewhite;
+    padding: 10px;
+}

@@ -1,0 +1,18 @@
+        * {
+            box-sizing: border-box;
+        }
+        body{
+            display: flex;    
+
+        }
+        div {
+            width: 25%;
+            float: left;
+            margin: 4px;
+            padding: 1px;
+            text-align: center;
+            border: 1PX solid;
+        }
+        img {
+            width: 100%;
+        }
