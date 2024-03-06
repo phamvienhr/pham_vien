@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0 ;
+}
+div{
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+    border: 20px red solid;
+    padding: 50px;
+    border-radius: 50%;
+        
+}
